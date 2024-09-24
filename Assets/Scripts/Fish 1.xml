@@ -1,0 +1,13 @@
+﻿<messages uid="10">
+	<message uid="1">О, ты сделал нам статую уточки!!! Спасибо!!!
+		<answers>
+			<answer auid="2" muid="3" action="kiss">???</answer>
+		</answers>
+	</message>
+	<message uid="3">*Чмок*
+		<answers>
+			<answer auid="4" muid="-1" action="dialogue end">*Грустный вздох от поцелуя*</answer>
+			<answer auid="4" muid="-1" action="dialogue end">*Теперь я могу прыгать!*</answer>
+		</answers>
+	</message>
+</messages>

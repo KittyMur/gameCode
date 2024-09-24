@@ -1,0 +1,68 @@
+﻿<messages uid="13">
+	<message uid="1">Ты пришел от Бибизяна?
+		<answers>
+			<answer auid="2" muid="4" action="none">Да</answer>
+			<answer auid="3" muid="26" action="none">Нет</answer>
+		</answers>
+	</message>
+	<message uid="4">Не сдавай меня ему. Он ненормальный.
+		<answers>
+			<answer auid="5" muid="6" action="none">Но, мне нужно помочь ему</answer>
+		</answers>
+	</message>
+	<message uid="6">Он не различает желтый и зеленый, и вообще он мало чего понимает. Можешь вместо меня посадить ему хомяка?
+		<answers>
+			<answer auid="7" muid="8" action="none">Чего????</answer>
+		</answers>
+	</message>
+	<message uid="8">Его легко украсть. Просто нажимаешь на [TAB] рядом с ним и он у тебя за спиной!
+		<answers>
+			<answer auid="9" muid="10" action="none">А где мне найти хомяков, если лес такой огромный?</answer>
+		</answers>
+	</message>
+	<message uid="10">Хомяки живут во 2 половине леса, они самые глупые, да и Бибизян тоже, он не увидит разницы. Только есть одно но...
+		<answers>
+			<answer auid="11" muid="12" action="none">И какое же?</answer>
+		</answers>
+	</message>
+	<message uid="12">Там живут олени, а они очень сильно любят свой телевизор..... Он, кстати, не работает..... 
+		<answers>
+			<answer auid="13" muid="14" action="none">А как мне это помешает забрать хомяка?</answer>
+		</answers>
+	</message>
+	<message uid="14">Ну.... у них там забор. Он такой большой, что его только перепрыгнуть получится.
+		<answers>
+			<answer auid="15" muid="16" action="none">*Грустно вздохнуть* Я не умею прыгать(</answer>
+		</answers>
+	</message>
+	<message uid="16">Говорят, поцелуй рыбы может заставить любого прыгать, но только с разбега.
+		<answers>
+			<answer auid="17" muid="18" action="none">От счастья?</answer>
+		</answers>
+	</message>
+	<message uid="18">От горя. Она же рыба и не самая красивая.
+		<answers>
+			<answer auid="19" muid="20" action="none">*Очень грустно вздохнуть*</answer>
+		</answers>
+	</message>
+	<message uid="20">А еще у них там гигант на охране, но от него можно просто убежать.
+		<answers>
+			<answer auid="21" muid="22" action="none">Не особо мне туда идти хочется.</answer>
+		</answers>
+	</message>
+	<message uid="22">Ну пожалуйстаааааа. Только как возьмешь хомяка, сразу беги к Бибизяну.
+		<answers>
+			<answer auid="23" muid="24" action="none">Эх. Ну ладно</answer>
+		</answers>
+	</message>
+	<message uid="24">Спасибо. Пока ты не ушел, у меня есть волшебный молот, он умеет летать. Мне не нужен, но вот тебе может пригодится.
+		<answers>
+			<answer auid="25" muid="-1" action="dialogue end">Может, и правда пригодится</answer>
+		</answers>
+	</message>
+	<message uid="26">Тогда не мешай мне прятаться! И забери волшебный молот. Он слишком яркий и привлекает много внимания.
+		<answers>
+			<answer auid="26" muid="-1" action="dialogue end">Пока и спасибо.</answer>
+		</answers>
+	</message>
+</messages>

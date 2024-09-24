@@ -1,0 +1,12 @@
+﻿<messages uid="4">
+	<message uid="1">Не помню, знакомы ли мы, но привет. О! У тебя мой гекон!
+		<answers>
+			<answer auid="2" muid="3" action="none">......</answer>
+		</answers>
+	</message>
+	<message uid="3">ЭТО МОЙ ГЕКОН! ОТДАЙ!!
+		<answers>
+			<answer auid="4" muid="-1" action="game end">Забирай......</answer>
+		</answers>
+	</message>
+</messages>

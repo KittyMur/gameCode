@@ -1,0 +1,32 @@
+﻿<messages uid="12">
+	<message uid="1">Мы любим своих уточек, мы их просто обожаем. Самое лучшее, что создано в этом мире - уточки!
+		<answers>
+			<answer auid="2" muid="3" action="none">Здорово....</answer>
+		</answers>
+	</message>
+	<message uid="3">У нас есть просьба.
+		<answers>
+			<answer auid="4" muid="5" action="none">Какая?</answer>
+		</answers>
+	</message>
+	<message uid="5">Хотим камень наверху превратить в статую уточки.
+		<answers>
+			<answer auid="6" muid="7" action="none">......</answer>
+		</answers>
+	</message>
+	<message uid="7">Помоги нам, в долгу не оставим.
+		<answers>
+			<answer auid="8" muid="9" action="none">А почему вы сами не сделаете её?</answer>
+		</answers>
+	</message>
+	<message uid="9">У нас же нет лапок. Как мы сможем? Тут поможет только волшебный молот.... У нас его нет.
+		<answers>
+			<answer auid="10" muid="11" action="none">А что я получу взамен?</answer>
+		</answers>
+	</message>
+	<message uid="11">Поцелуй рыбы. От него ты сможешь высоко прыгать. Это будет твой самый лучший поцелуй в жизни!
+		<answers>
+			<answer auid="12" muid="-1" action="dialogue end">Ладно...</answer>
+		</answers>
+	</message>
+</messages>

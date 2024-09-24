@@ -1,0 +1,19 @@
+﻿<messages uid="8">
+	<message uid="1">Привет, я Бибизян.
+		<answers>
+			<answer auid="2" muid="3" action="none">Привет!?</answer>
+		</answers>
+	</message>
+	<message uid="3">А ты сможешь мне помочь?
+		<answers>
+			<answer auid="4" muid="6" action="none">Сразу говорю, я не умею прыгать(</answer>
+			<answer auid="5" muid="-1" action="dialogue end">Нет.</answer>
+		</answers>
+	</message>
+	<message uid="6">Мой гекон сбежал вместе со своей коробкой( Верни его домой, пожалуйста.
+		<answers>
+			<answer auid="7" muid="-1" action="dialogue end">Ладно.....</answer>
+			<answer auid="8" muid="-1" action="dialogue end">Нет.</answer>
+		</answers>
+	</message>
+</messages>
